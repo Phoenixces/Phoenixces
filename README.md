@@ -1,7 +1,7 @@
 # Hello, folks! 
 
 
-## <em><b>I AM KARUNA SHARMA............. 😇</b></em>
+# <em><b>I AM KARUNA SHARMA............. 😇</b></em>
 
 
 </br>
