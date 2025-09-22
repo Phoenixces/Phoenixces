@@ -1,11 +1,10 @@
-# Hello, folks! 
 
 
-# <em><b>I AM KARUNA SHARMA </b></em>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%23F28C28&size=28&lines=Hi...+Karuna+here+!)](https://git.io/typing-svg)
 
 
 </br>
-An Ambitious, self-motivated and result-driven engineering student who aspires to be a self package of all modern technical knowledge and thus to be self-reliant in all aspects.
+An Ambitious, self-motivated and result-driven software engineer who aspires to be a self package of all modern technical knowledge and thus to be self-reliant in all aspects.
 <br>
 Life Objective is to make this world a better place for the less fortunate people by better understanding their problems and by bridging some of the social, economic and political gaps which will ultimately help me and others to be an effective and empathetic citizen of nation😇.
 
