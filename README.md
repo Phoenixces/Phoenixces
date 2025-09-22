@@ -19,19 +19,9 @@
 - 🧩 Thrive in ambiguity & chaos → that’s where creativity sparks  
 - 🏏 Sports enthusiast: **Cricket, Basketball, Badminton, FootBall, VolleyBall etc**  
 - 🔥 Interested in: **Green Tech, Cybersecurity**
-- 💬 Ask me about **Java Spring Boot, Node.js, React.js, Generative AI, Machine Learning, Agentic AI, SAP CAP, SAP BTP and many more technogies**
+- 💬 Experience with **Java Spring Boot, Node.js, React.js, Jenkins, Python, SAP CAP, SAP BTP, Bit GenAI ML Agentic AI and many more technogies**
 
 ---
-
-
-  
-
-
-</br>
-
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-	
 
 ### <b>⚡One Quick fact about Programming World: ✨ The first computer “bug” was an actual real-life bug</b> ✨  
 In the programming world, a bug is an error that causes a program to crash or behave in strange ways. First coined by Thomas Edison in 1878 (to refer to technical errors of the period), the term “bug” would eventually find mainstream use in modern computing.
@@ -39,7 +29,8 @@ In the programming world, a bug is an error that causes a program to crash or be
 However, it was in 1947 that the first case of a computer bug was recorded. Grace Hopper, an admiral in the US Navy, was working on a Mark II computer when she discovered a moth had become stuck in the relay, thus causing it to malfunction.
 
 Once the moth🦋 was removed, she wrote in her journal “first actual case of bug being found” – and the rest is history.......🤯😮 
- 
+
+ ---
 
 <h2>Connect with me!  
  
