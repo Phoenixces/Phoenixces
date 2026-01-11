@@ -3,17 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=%23F28C28&size=28&lines=Hi...+Karuna+here+!)](https://git.io/typing-svg)
 
 
-🚀 A **Software Developer at SAP Labs India**, passionate about building scalable systems, experimenting with new tech, and solving real world challenges with creativity.  
+A **Software Developer at SAP Labs India**, passionate about building scalable systems, experimenting with new tech, and solving real world challenges with creativity.  
 
-🔥 Fictional self = **Phoenix**, I rise in chaos, I thrive in challenges, and I love transforming ideas into impact.  
+Fictional self = **Phoenix**, I rise in chaos, I thrive in challenges, and I love transforming ideas into impact.  
 
-💡 **Hackathon lover, sports enthusiast, and forever curious** mind who believes in learning by doing.  
+**Hackathon lover, sports enthusiast, and forever curious** mind who believes in learning by doing.  
 
 ---
 
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="150px">
 
-### ⚡ About Me  
+### About Me  
 - 💼 Software Developer @ **SAP Labs India**  
 - 🏆 love rapid prototyping & Hackathons
 - 🧩 Thrive in ambiguity & chaos, that’s where creativity sparks  
