@@ -19,7 +19,7 @@
 - 🧩 Thrive in ambiguity & chaos, that’s where creativity sparks  
 - 🏏 Sports enthusiast: **Cricket, Basketball, Badminton, FootBall, VolleyBall etc**  
 - 🔥 Interested in: **Green Tech, Cybersecurity**
-- 💬 Experience with **Java Spring Boot, Node.js, React.js, Jenkins, Python, SAP CAP, SAP BTP, Bit GenAI ML Agentic AI and many more technogies**
+- 💬 Experience with **Java Spring Boot, Node.js, React.js, Jenkins, Python ML GenAI RAG Agentic AI, SAP CAP, SAP BTP, and many more technogies**
 
 ---
 
